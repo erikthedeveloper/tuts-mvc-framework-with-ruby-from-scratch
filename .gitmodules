@@ -1,0 +1,6 @@
+[submodule "blog"]
+	path = blog
+	url = ./blog
+[submodule "simplemvc"]
+	path = simplemvc
+	url = ./simplemvc
